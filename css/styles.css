@@ -1,5 +1,5 @@
 p {
-  color:blue
+  color: blue;
 }
 
 h2{
@@ -22,4 +22,17 @@ ul{
 
 h2{
   text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#avi {
+  width: 300px;
+  height: 220px;
+}
+
+#activities {
+  float: right;
 }
