@@ -1,6 +1,3 @@
-p {
-  color: blue;
-}
 
 h2{
   font-style: italic;
@@ -31,8 +28,4 @@ h2{
 #avi {
   width: 300px;
   height: 220px;
-}
-
-#activities {
-  float: right;
 }
