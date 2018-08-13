@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _This is a descriptive portfolio displaying my skills, interests, and projects. 5.26.2017_
+#### _This is a descriptive portfolio displaying my skills, interests, and projects. 8.10.2018_
 
 #### By _**Jack Skantel**_
 
@@ -32,4 +32,4 @@ _For this site we used html and css in conjunction with the bootstrap framework.
 
 *NO licensing.*
 
-Copyright (c) 2017 **_Jack Skantel_**
+Copyright (c) 2018 **_Jack Skantel_**
